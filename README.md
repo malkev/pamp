@@ -7,8 +7,8 @@ It provides Apache, MySQL and PHP stacks in a single solution.
 Both Apache and MySQL come with the basic configuration.
 
 
-[![licence](https://img.shields.io/static/v1?label=licence&message=Apache%202.0&color=blue)](https://github.com/ssilviogit/pamp/blob/master/LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/ssilviogit/pamp/total.svg?maxAge=2592001)](https://github.com/ssilviogit/pamp/releases/)
+[![licence](https://img.shields.io/static/v1?label=licence&message=Apache%202.0&color=blue)](https://github.com/malkev/pamp/blob/master/LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/malkev/pamp/total.svg?maxAge=2592001)](https://github.com/malkev/pamp/releases/)
 
 ![pamp preview](docs/pamp-screenshot.jpg)
 
