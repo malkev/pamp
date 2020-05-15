@@ -8,12 +8,12 @@ Both Apache and MySQL come with the basic configuration.
 
 
 [![licence](https://img.shields.io/static/v1?label=licence&message=Apache%202.0&color=blue)](https://github.com/malkev/pamp/blob/master/LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/malkev/pamp/total.svg?maxAge=2592001)](https://github.com/malkev/pamp/releases/)
+[![Downloads](https://img.shields.io/github/downloads/malkev/pamp/total.svg)](https://github.com/malkev/pamp/releases/)
 
 ![pamp preview](docs/pamp-screenshot.jpg)
 
 ## Versions
-Last release packages:
+[Last **`pamp`** release (v1.0.0.1)](https://github.com/malkev/pamp/releases/tag/v1.0.0.1) contains following packages:
 ```
 Apache: 2.4.43
 MySQL: 5.6.34
