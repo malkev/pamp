@@ -75,3 +75,9 @@ The `_log` folder is the target location for:
 * apache_error.log
 * php_error.log
 * mysql_error_log.err
+
+## License
+License [Aapache-2.0](https://github.com/malkev/pamp/LICENSE).
+
+Your contribution will be appreciate:
+[![Donate](https://www.paypalobjects.com/en_US/IT/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=UZAJWKUNPLHAG&currency_code=EUR&source=url)
